@@ -1,33 +1,12 @@
 The Book I Dreamt Of
 ====================
 
-Letter to Lea
--------------
+Language
+--------
 
-Salut, ca fait longtemps.
+It will be written in English at the base, but I may write a French translation as I go.
 
-Comment vas tu, etc etc.
+License
+-------
 
-J'ai besoin d'une seconde opinion. Ou plutot, d'une opinion, puisque je n'en ai pas.
-
-Voila:
-
-J'ai une histoire en tete. Et je voudrais la coucher sur le papier. Maintenant, sans reveler son contenu, disons que son intrigue suit les grandes lignes de l'aventure fantastique classique, ie. un hero, ou plusieurs, se voient attribues une quete, d'une maniere ou d'une autre, et doivent pour y reussir traverser une grande distance et de nombreuse epreuves. Disons de plus que les heros sont 5 au debut, puis cette bande d'amis (de fortune ou d'ailleurs) rencontrerons une sixieme personne dans le dedale de leurs peripetie, qui se joindra a eux, completant ainsi le groupe heroique et revelant des pieces caches du puzzle, un twist de magie en plus, etc etc etc. Ensuite les aventures continuent, jusqu'a completion de la-dite quete et donc du bouquin.
-
-Bon. Jusque la tout va bien. Le probleme emerge lorsque l'on commence a se pencher sur le genre des personnages. Question d'audience et d'egalite, on va dire que le groupe final de 6 se composera de 3 de chaque. La question est: *va t-il y avoir 3g+2f ou 2g+3f au depart (ou en fait: quel va etre le genre du ou de la sixieme) ?*
-
-Pour s'interesser aux reponses et aux soucis que je me fais:
-
-Avec une telle combinaison, il est evident, meme si rien n'est explicitement ecris, qu'il y aura bien plus que de l'amitie qui liera le groupe. Ainsi, numero 6 viendras combler plus que qu'un trou dans l'intrigue. Il faut alors considerer les connotations presentes par tel ou tel choix. En fait, j'ai peur que le choix pour l'equipe de depart definisse l'inclinaison percue du texte. S'il y a plus de filles, on peut s'attendre a ce que l'attente des lecteurs soit penchee d'un cote plus romantique, alors que plus de garcons pousse vers l'action et le conflit. Il y a encore d'autres possibilites, comme un numero 5 mysterieux, dont on ne connais meme pas le profil, qui serait revele juste avant l'arrivee de numero 6, qui balancerait l'instabilite creee par la (re-)decouverte de 5. Et je ne parle meme pas des diverses inclinaisons amoureuses! Il y a une infinite de possibilites.
-
-Mais je ne requiert que ton avis sur la question.
-
-
-J'espere que tu trouveras le temps de me lire, et eventuellement, de me repondre,
-<br />
-et je me demande toujours ce qui serait advenu aurais-je repondu, il y a tout ce temps.
-
-Amities (au moins)
-
-
-    -- Felix
+CC-BY-NC-SA 3.0 Unported
