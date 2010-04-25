@@ -1,7 +1,7 @@
 Prologue
 ========
 
-*53.47.2 Day of Salt*
+*__53.47.2__ Day of Salt*
 
 Today, nearly 4 years since it began, is the first time I have enjoyed the
 Day of Salt in the Red City of Ominelga. It is a time of reunion, of sadness
