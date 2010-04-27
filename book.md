@@ -10,7 +10,7 @@ License
 -------
 
 This work of fiction by passcod is licensed under a
-Creative Commons Attribution-Non-commercial-Share-Alike 3.0 Unported License, see (this page)[home]
+Creative Commons Attribution-Non-commercial-Share-Alike 3.0 Unported License, see [home].
 
 [home]: <http://passcod.webege.com/thebook>
 
