@@ -1,6 +1,28 @@
 Writing Diary
 =============
 
+10.20.3
+-------
+
+Three weeks have passed since I last wrote here. But I have not
+been inactive in this regard for the last 21 days. I have been
+imagining.
+
+I had the basic idea when I started. But now I've got to immerge myself in this
+universe I have been creating. Why? Well, it's very simple: my characters will
+see, think, speak and act in the way they've always done... all their life, even
+they do not exist yet!
+
+I'll also rewrite the prologue. I actually wrote the first one to give me a
+starting point, because I felt that if I didn't write anything, I'd give up the
+idea entirely, without even having begun.
+
+Anyways, I know *nobody* reads what I write right now, I'm writing it for those
+who, later on, will read this diary.
+
+And also for me.
+
+
 10.16.7
 -------
 
