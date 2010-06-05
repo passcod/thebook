@@ -66,7 +66,7 @@ The (real) title will be determined much later, of course...
 One last thing: I need to think about the names of the four main characters --
 2b + 2g, and the last one we'll see when he/she appears.
 
-<br />
+
 
 P.S: Oh, and remind me to look up old and made up languages to create the
 origins of the word (and the country) Tahlr.

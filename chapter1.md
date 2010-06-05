@@ -16,7 +16,7 @@ I fear I might not discover that until it's too late. But Lucyn shouldn't hide
 anything from us, we're his friends, after all! I'll talk to the others, maybe
 they know something.
 
-<br />
+### * ###
 
 ### Lucyn ###
 
@@ -40,7 +40,7 @@ late... I need time I haven't; but I'll sleep on it and see tomorrow.
 
 Hopefully.
 
-<br />
+### * ###
 
 ### Shvn ###
 
