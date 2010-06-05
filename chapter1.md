@@ -30,12 +30,24 @@ and discover Ale's eyes are shining.
 However, today I realised she was busier looking at my eyes. Blurring? That's
 something new. Or maybe it was there since the beginning, only I didn't realise
  - after all, it never happens in front of a mirror.
- 
- If it is that serious that people are starting to see it out in the open, then
- it means there is something wrong. I need to talk about it... but how am I 
- going to explain why I didn't share it earlier?
- 
- Tonight is Luma's birthday, tomorrow is another day, the day after will be too
- late... I need time I haven't; but I'll sleep on it and see tomorrow.
- 
- Hopefully.
+
+If it is that serious that people are starting to see it out in the open, then
+it means there is something wrong. I need to talk about it... but how am I 
+going to explain why I didn't share it earlier?
+
+Tonight is Luma's birthday, tomorrow is another day, the day after will be too
+late... I need time I haven't; but I'll sleep on it and see tomorrow.
+
+Hopefully.
+
+<br />
+
+### Shvn ###
+
+I must have been sleeping for too long, because I was hungry when I stood up.
+But as much as I'd like to eat, Zvm made sure I didn't get any before I'd done
+the daily ritual. It is the 93rd day into my Vweke, and the end is still very
+far away - given that I can pass the challenges ahead, which is not given at
+all!
+
+I need to eat now, and to sleep again.

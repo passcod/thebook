@@ -14,8 +14,10 @@ The usual pronounciation rules apply, except:
   non-spoken.
 - 'u' is the french 'u' or latin 'y'.
 - 'e' is the latin 'e', or the french '&eacute;', and can be approached by the
-  english 'ay', as in 'May', or 'eh'. "Ale" is __not__ pronouced like the beverage, but
-  a bit like 'Al-eh'.
+  english 'ay', as in 'May', or 'eh'. "Ale" is *not* pronounced like the
+  beverage, but a bit like 'Ah-l-eh'.
+- 'v', in Shvn's language, is pronounced 'uh'. In other languages, it is the
+  normal 'v'. "Shvn" is thus pronounced a bit like the English name Sean.
 
 Language
 --------
