@@ -17,7 +17,8 @@ The usual pronounciation rules apply, except:
   english 'ay', as in 'May', or 'eh'. "Ale" is *not* pronounced like the
   beverage, but a bit like 'Ah-l-eh'.
 - 'v', in Shvn's language, is pronounced 'uh'. In other languages, it is the
-  normal 'v'. "Shvn" is thus pronounced a bit like the English name Sean.
+  normal 'v'. "Shvn" is thus pronounced a bit like the English name Sean, and
+  like the verb 'to shun'.
 
 Language
 --------
