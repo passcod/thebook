@@ -1,14 +1,14 @@
 The Book I Dreamt Of
 ====================
 
-Pronounciation
+Pronunciation
 --------------
 
 #### Of names and other words native to Talhr ####
 
 Each letter has its sound, like Spanish or French. Or latin.
 
-The usual pronounciation rules apply, except:
+The usual pronunciation rules apply, except:
 
 - 'y' is pronounced 'ya', or 'yah', with the French 'a', but short and almost
   non-spoken.
@@ -19,6 +19,19 @@ The usual pronounciation rules apply, except:
 - 'v', in Shvn's language, is pronounced 'uh'. In other languages, it is the
   normal 'v'. "Shvn" is thus pronounced a bit like the English name Sean, and
   like the verb 'to shun'.
+
+Characters
+----------
+
+Our five heroes are:
+
+- *Lucyn*
+- *Pinim*
+- *Ale*
+- *Luma*
+- *???*
+
+and there is the mysterious *Shvn*.
 
 Language
 --------
