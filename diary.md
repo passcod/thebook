@@ -1,6 +1,23 @@
 Writing Diary
 =============
 
+10.22.6
+-------
+
+Rewrote the prologue. It changes the focus considerably, but the last week I 
+spent imagining the book, reshaping it and making the story more complex, 
+more alive.
+
+You know, L&eacute;a, I finally chose: it will be 3b+2g. A simple choice because the
+central character is a he... the blind boy of the prologue.
+
+There's still not much to be read, but that will come soon. I am more ready 
+than ever to write, and the only lacking item is time.
+
+I think I'm gonna begin Chapter 1 now... 
+
+
+
 10.20.3
 -------
 
