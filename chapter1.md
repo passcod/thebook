@@ -47,7 +47,7 @@ Hopefully.
 I must have been sleeping for too long, because I was hungry when I stood up.
 But as much as I'd like to eat, Zvm made sure I didn't get any before I'd done
 the daily ritual. It is the 93rd day into my Vweke, and the end is still very
-far away - given that I can pass the challenges ahead, which for I am not ready
+far away - given that I can pass the challenges ahead, for which I am not ready
 at all!
 
 I need to eat now, and to sleep again.

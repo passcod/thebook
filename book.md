@@ -19,6 +19,7 @@ The usual pronunciation rules apply, except:
 - 'v', in Shvn's language, is pronounced 'uh'. In other languages, it is the
   normal 'v'. "Shvn" is thus pronounced a bit like the English name Sean, and
   like the verb 'to shun'.
+- 'hr' is 'er', as in 'butter'. The 'h' is not pronounced.
 
 Characters
 ----------

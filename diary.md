@@ -1,6 +1,36 @@
 Writing Diary
 =============
 
+10.22.7
+-------
+
+Yesterday I wrote the first chapter, and introduced 5 of the main 6 characters,
+that is: *Lucyn*, *Pinim*, *Ale*, *Luma*, and there is one missing of the
+original band of five, that the reader will meet later. There is also *Shvn*,
+who is in the middle of some sort of initiation ritual, and that should keep
+her occupied for most of half of the book, or until I decide she should come
+out, at least.
+
+I still need to do plenty of work on that chapter, it is very short at the
+moment, and just kept at the bare minimum. This is the hard part for me, as I
+do not like to overwrite, but at the same time, keeping a perfect style all 
+the way through the book is not possible.
+
+Today I found a website called [fictionaut], which is a very good idea: give
+authors around the web the possibility to write and share short fiction, 
+stories. The website says it is still in the invite-only sign up stage, so I
+don't know whether to request one or what... a glance through the member list
+showed all members are **"old"**, over 30 or so... maybe they do not want kids
+messing around.
+
+Lastly, I think I'm pretty decided on keeping _The Book I Dreamt Of_ as the
+final title.
+
+Today was a good day, and I hope there will be more like it!
+
+[fictionaut]: http://www.fictionaut.com
+
+
 10.22.6
 -------
 
@@ -8,8 +38,8 @@ Rewrote the prologue. It changes the focus considerably, but the last week I
 spent imagining the book, reshaping it and making the story more complex, 
 more alive.
 
-You know, L&eacute;a, I finally chose: it will be 3b+2g. A simple choice because the
-central character is a he... the blind boy of the prologue.
+You know, L&eacute;a, I finally chose: it will be 3b+2g. A simple choice
+because the central character is a he... the blind boy of the prologue.
 
 There's still not much to be read, but that will come soon. I am more ready 
 than ever to write, and the only lacking item is time.
@@ -27,8 +57,8 @@ imagining.
 
 I had the basic idea when I started. But now I've got to immerge myself in this
 universe I have been creating. Why? Well, it's very simple: my characters will
-see, think, speak and act in the way they've always done... all their life, even
-they do not exist yet!
+see, think, speak and act in the way they've always done... all their life, 
+even if they do not exist yet!
 
 I'll also rewrite the prologue. I actually wrote the first one to give me a
 starting point, because I felt that if I didn't write anything, I'd give up the
